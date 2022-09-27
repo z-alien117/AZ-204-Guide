@@ -3,6 +3,7 @@
 
 ## Links of interest
 
+- [Azure case studies and customer stories](https://azure.microsoft.com/en-us/resources/customer-stories/)
 - [Global infraestructure](https://infrastructuremap.microsoft.com/)
 - [High available multi-region web app](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)
 - [App Service documentation](https://learn.microsoft.com/en-us/azure/app-service/)
@@ -33,8 +34,8 @@
 - [AZ-204 GITHUB](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure)
 - [Labs (just instructions)](https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/)
 - [Azure AD SDK repos](https://github.com/AzureAD)
-- [Quickstart: Deploy an ASP.NET web app](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs)
 - [AZ-204 Learning path](https://learn.microsoft.com/en-us/certifications/exams/az-204)
+- [Azure event hubs repo](https://github.com/Azure/azure-event-hubs)
 
 ## Exam
 - [Exam duration and question typess](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
@@ -46,6 +47,7 @@
 - [Use a Linux VM system-assigned identity to access Azure Storage via a SAS credential](https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/tutorial-linux-vm-access-storage-sas)
 - [Build and deploy container images](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-tutorial-quick-task)
 - [How to create durable function in C#](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-create-first-csharp?pivots=code-editor-vscode)
+- [Quickstart: Deploy an ASP.NET web app](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs)
 
 ## Code samples
 - [Identities](az204-auth/Readme.md)
