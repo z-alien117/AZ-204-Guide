@@ -48,7 +48,7 @@
 - [How to create durable function in C#](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-create-first-csharp?pivots=code-editor-vscode)
 
 ## Code samples
-- [Identities](az204-auth/Program.cs)
+- [Identities](az204-auth/Readme.md)
 
 ## Visuals
 
