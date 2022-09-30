@@ -8,6 +8,7 @@
 - [High available multi-region web app](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)
 - [App Service documentation](https://learn.microsoft.com/en-us/azure/app-service/)
 - [Azure Blob Storage documentation](https://learn.microsoft.com/en-us/azure/storage/blobs/)
+- [Overview of Azure page blobs](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-pageblob-overview?tabs=dotnet)
 - [Scalability and performance targets for Blob storage](https://learn.microsoft.com/en-us/azure/storage/blobs/scalability-targets)
 - [Functions Documentation](https://learn.microsoft.com/en-us/azure/azure-functions/)
 - [Functions Kubernetes with KEDA](https://learn.microsoft.com/en-us/azure/azure-functions/functions-kubernetes-keda)
@@ -23,8 +24,10 @@
 - [Azure for .NET developers](https://learn.microsoft.com/en-gb/dotnet/azure/)
 - [Azure for Python Developers](https://learn.microsoft.com/en-gb/azure/developer/python/)
 - [Azure services that can use managed identities to access other services](https://learn.microsoft.com/en-gb/azure/active-directory/managed-identities-azure-resources/managed-identities-status)
-
-
+- [CDN Table features](https://learn.microsoft.com/en-gb/azure/cdn/cdn-features)
+- [Application Insights with PowerBI](https://learn.microsoft.com/en-us/azure/azure-monitor/app/export-power-bi)
+- [Kusto Query Language (KQL)](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
+- [KQL Reference](https://learn.microsoft.com/en-us/azure/data-explorer/kql-quick-reference)
 ## Tools
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [Cron expression generator](https://crontab.cronhub.io/)
@@ -36,6 +39,7 @@
 - [Azure AD SDK repos](https://github.com/AzureAD)
 - [AZ-204 Learning path](https://learn.microsoft.com/en-us/certifications/exams/az-204)
 - [Azure event hubs repo](https://github.com/Azure/azure-event-hubs)
+- [EventHubs](https://github.com/Azure/azure-event-hubs)
 
 ## Exam
 - [Exam duration and question typess](https://learn.microsoft.com/en-us/certifications/exam-duration-question-types)
@@ -48,6 +52,11 @@
 - [Build and deploy container images](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-tutorial-quick-task)
 - [How to create durable function in C#](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-create-first-csharp?pivots=code-editor-vscode)
 - [Quickstart: Deploy an ASP.NET web app](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs)
+- [Tutorial: Map an existing custom DNS name to Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain?tabs=a%2Cazurecli)
+- [Tutorial: Run applications in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-application?tabs=azure-cli)
+- [Log analytics tutorial](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-tutorial)
+- [Get started with Azure Service Bus topics and subscriptions (.NET)](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions)
+
 
 ## Code samples
 - [Identities](az204-auth/Readme.md)
@@ -56,3 +65,8 @@
 
 **Shared responsibility model**
 ![Shared responsibility model](Media/img/sharedresponsibilitymodel.png)
+
+
+# Contact:
+
+https://www.linkedin.com/in/jafet-zagal/
